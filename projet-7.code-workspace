@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "projet-7",
+			"path": "."
+		},
+		{
+			"name": "backend",
+			"path": "../projet 7/books/backend"
+		}
+	],
+	"settings": {}
+}
